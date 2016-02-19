@@ -1,0 +1,75 @@
+body {
+  background-color: #99CC99;
+  font-family: Arial; }
+
+header {
+  padding: 10px; }
+
+legend {
+  font-family: Arial; }
+
+.input-group-addon {
+  display: inline-block;
+  width: 25%;
+  background-color: AliceBlue; }
+
+.container-all {
+  background-color: #99CC99; }
+
+.container {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  background-color: #99CC99; }
+
+#weatherpanels {
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px; }
+
+.legend {
+  font-size: 8px; }
+
+#days {
+  max-width: 35%;
+  background-color: AliceBlue; }
+
+#day-box {
+  margin: 10px; }
+
+#know-box {
+  margin: 10px; }
+
+#city-box {
+  margin: 10px; }
+
+.size {
+  min-width: 80px;
+  max-width: 260px; }
+
+.panel {
+  padding-left: 5px;
+  padding-right: 5px;
+  font-family: Arial; }
+
+.panel.panel-info {
+  margin: 0px; }
+
+.panel-heading {
+  font-family: Arial; }
+
+section span {
+  margin-right: 10px;
+  color: #045FB4; }
+
+section span:hover {
+  text-decoration: underline;
+  color: #FF4000; }
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+.carousel .item img {
+  width: 100%;
+  min-height: 200px; }

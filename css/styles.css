@@ -1,6 +1,9 @@
 body {
-  background-color: #99CC99;
+  background-image: url("https://notendur.hi.is/~tap4/cvImages/weatherPattern.jpg");
   font-family: Arial; }
+
+main {
+  background-image: url("https://notendur.hi.is/~tap4/cvImages/weatherPattern.jpg"); }
 
 header {
   padding: 10px; }
@@ -14,7 +17,7 @@ legend {
   background-color: AliceBlue; }
 
 .container-all {
-  background-color: #99CC99; }
+  background-image: url("https://notendur.hi.is/~tap4/cvImages/weatherPattern.jpg"); }
 
 .container {
   padding-top: 10px;

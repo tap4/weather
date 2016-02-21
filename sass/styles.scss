@@ -1,15 +1,12 @@
 
 body {
-	background-image: url("https://notendur.hi.is/~tap4/cvImages/weatherPattern.jpg");
 	font-family: Arial;
 }
 
 main{
-  background-image: url("https://notendur.hi.is/~tap4/cvImages/weatherPattern.jpg");
+  background-image: url("https://notendur.hi.is/~tap4/cv/rain.jpg");
 }
-header {
-	padding: 10px;
-}
+
 
 legend {
 font-family: Arial;
@@ -23,7 +20,7 @@ font-family: Arial;
 
 .container-all {
 
-  background-image: url("https://notendur.hi.is/~tap4/cvImages/weatherPattern.jpg");
+  background-image: url("https://notendur.hi.is/~tap4/cv/rain.jpg");
 }
 
 .container {
@@ -32,17 +29,35 @@ font-family: Arial;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom: 10px;
-	background-color: #99CC99;
+
 
 }
 
+.form-group{
+  background-color: transparent;
+}
+
+.row{
+  background-color: white;
+  border-color: #B8E4EF;
+  border-style: solid;
+  border-width: 10px;
+
+}
+
+#topContainer{
+  padding-left: 0;
+}
+
+#welcomeBox{
+  background-color: #CDEAF0;
+  margin-top: 20px;
+}
 #weatherpanels {
-
-
 	padding-top: 0px;
 	padding-left: 0px;
 	padding-right: 0px;
-	padding-bottom: 0px;
+	padding-bottom: 10px;
 }
 
 .legend {
@@ -107,4 +122,8 @@ section span:hover {
 .carousel .item img{
   width: 100%;
   min-height: 200px;
+}
+
+#myCarousel {
+  padding-left:0;
 }
